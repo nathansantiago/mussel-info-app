@@ -17,4 +17,9 @@
   display: flex;
   justify-content: space-between;
   margin-bottom: 8px;
+  color: white;
+}
+
+body {
+  background-color: #494850;
 }
