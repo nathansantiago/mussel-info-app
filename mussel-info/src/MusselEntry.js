@@ -2,7 +2,7 @@ function MusselEntry({entry}) {
     return (
         <div className="mussel-entry">
             <h3>{entry.name}</h3>
-            <p>{entry.text}</p>
+            <p>{entry.description}</p>
         </div>
     );
 }
