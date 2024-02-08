@@ -9,3 +9,6 @@ Freshwater mussels, or bivalve mollusks, hereafter referred to as mussels, are a
 ## Technical Details
 
 The app uses React to handle the front and backend. Supabase is used for the database that contains the information on mussel species.
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
